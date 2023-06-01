@@ -77,13 +77,13 @@ public class Cards{
 	}
 	if(value == 1) {
 		System.out.println(	  "┌───────────┐");
-		System.out.println(   "│♥░░░░░░░░░♥│");
+		System.out.println(   "    │♥░░░░░░░░░♥│");
 		System.out.println(	  "│░░░█████╗░░│");
 		System.out.println(	  "│░░██╔══██╗░│");
 		System.out.println(	  "│░░███████║░│");
 		System.out.println(	  "│░░██╔══██║░│");
 		System.out.println(	  "│░░██║░░██║░│");
-		System.out.println(   "│♥░╚═╝░░╚═╝♥│");
+		System.out.println(   "    │♥░╚═╝░░╚═╝♥│");
 		System.out.println(	  "└───────────┘");
 	}
 	if(value == 2) {
