@@ -7,5 +7,5 @@ stuff to do:
 -make it so that it eliminates the cards given out and on the field so there are no duplicates 
 -finish it
 -convert code to javascript so it can be playable by anyone 
--get rich 
--exorcise the demon known as ted. i hate ted he called me names.
+-get rich
+
